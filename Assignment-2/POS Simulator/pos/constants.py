@@ -1,0 +1,9 @@
+CASH = "cash"
+CARD = "card"
+PRODUCT_DB_NAME = "db_init.sql"
+PRODUCT_TABLE_NAME = "products.db"
+DISCOUNT_TABLE_NAME = "discounts.db"
+DISCOUNT_DB_NAME = "discount_db_init.sql"
+ALL_REPORTS_DB = "market_reports.db"
+MARKET_TABLE_NAME = "market_reports"
+SHIFTS = 3
